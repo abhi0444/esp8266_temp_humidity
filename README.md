@@ -1,4 +1,4 @@
-# temprature_humidity-live-monitiring-system
+# Temprature Humidity Live Monitiring System
 
 # Hardware Required
 
